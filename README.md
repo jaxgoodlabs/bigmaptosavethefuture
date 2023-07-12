@@ -9,5 +9,5 @@
 - !python -m pip install svglib
 - !python -m pip install selenium
 - !python -m pip install validators
-5. Run each cell until you get to "__main__"
-6. Test the program 
+3. Run each cell until you get to __main__
+4. Test the program 
