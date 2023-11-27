@@ -10,7 +10,7 @@ The Big Map to Save the Future is an App and a Social Recruitment Process to enc
 </p>
 
 ## Where Do You Fit In?
-This is a 100% volunteer-driven project. Our current volunteers come from a wide range of backgrounds and contribute to the project in very different ways. What we have in common is a commitment to climate action, a collaborative spirit, and a deep belief in the potential of regular people to make a big difference. 
+This is a 100% volunteer-driven project. Our volunteers come from a wide range of backgrounds and contribute to the project in very different ways. What we have in common is a commitment to climate action, a collaborative spirit, and a deep belief in the potential of regular people to make a big difference. 
 
 If you have these qualities and a little extra time on your hands, please let us know by contacting the project coordinator at patrickkcampbell0[at]gmail.com.
 
@@ -33,9 +33,9 @@ Below is a short list of some of our current planned activities, which we will c
 - Grant research and proposal development
 - Project coordination / Task Leads
 
-Contributors are also encouraged to pitch their own ideas for future development. Our work style is open and highly collaborative, and many of our tasks are designed to be self-guided. Whether you're looking to learn a new skill, level up existing skills, or build your portfolio, please let us know how we can make this experience as valuable to you as it is for us.
+Volunteers are also encouraged to pitch their own ideas for future development. Our work style is open and highly collaborative, and many of our tasks are designed to be self-guided. Whether you're looking to learn a new skill, level up existing skills, or build your portfolio, please let us know how we can make this experience as valuable to you as it is for us.
 
-## Quicklinks
+## Useful Links
 1. [EcoRestoration Alliance homepage](https://www.ecorestorationalliance.org/)
 2. [Big Map prototype](experience.arcgis.com/experience/a119844161254f0d8d397b255f392174/page/Map-Viewer/)
 3. [ERA Initiative 20x20 Technical Partner profile](https://initiative20x20.org/partners/ecorestoration-alliance)
