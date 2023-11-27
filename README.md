@@ -30,8 +30,8 @@ We're especially in need of volunteers with the following skills:
 
 Below is a short list of some of our current planned activities, which we will continue to update as the project progresses. Activities are grouped by 
 - Development of the Big Map prototype, including:
--- Integration of Experience Builder application with social media, especially through social media post templates and builder and RSS feed
--- 
+  - Integration of Experience Builder application with social media, especially through social media post templates and builder and RSS feed
+  - 
 - Grant research and proposal development
 
 Volunteers are also encouraged to pitch their own ideas for future development. Our work style is open and highly collaborative, and many of our tasks are designed to be self-guided. 
