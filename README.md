@@ -19,8 +19,11 @@ This project is sponsored by the EcoRestoration Alliance (ERA), a global network
 Read more [here](https://www.ecorestorationalliance.org/).
 
 ## Where do you fit in?
-This is a 100% volunteer-driven project. Our current volunteers come from a wide range of backgrounds and contribute to the project in very different ways. What we have in common is a commitment to climate action, a collaborative spirit, and a deep belief in the potential of regular people to make a big difference. If you have these qualities and a little extra time on your hands, please reach out! 
+This is a 100% volunteer-driven project. Our current volunteers come from a wide range of backgrounds and contribute to the project in very different ways. What we have in common is a commitment to climate action, a collaborative spirit, and a deep belief in the potential of regular people to make a big difference. 
 
+If you have these qualities and a little extra time on your hands, please let us know by contacting the project coordinator at patrickkcampbell0[at]gmail.com.
+
+### Current needs
 We're especially in need of volunteers with the following skills:
 - GIS and webmap app development (Esri suite, QGIS, etc.)
 - Coding / development
@@ -28,7 +31,8 @@ We're especially in need of volunteers with the following skills:
 - User Research
 - Grant writing
 
-Below is a short list of some of our current planned activities, which we will continue to update as the project progresses. Activities are grouped by 
+### Current Opportunities
+Below is a short list of some of our current planned activities, which we will continue to update as the project progresses. 
 - Development of the Big Map prototype, including:
   - Integration of Experience Builder application with social media, especially through social media post templates and builder and RSS feed
   - 
