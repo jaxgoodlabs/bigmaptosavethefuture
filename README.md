@@ -18,27 +18,31 @@ This project is sponsored by the EcoRestoration Alliance (ERA), a global network
 
 Read more [here](https://www.ecorestorationalliance.org/).
 
-## Where do you fit in?
+## Where Do You Fit In?
 This is a 100% volunteer-driven project. Our current volunteers come from a wide range of backgrounds and contribute to the project in very different ways. What we have in common is a commitment to climate action, a collaborative spirit, and a deep belief in the potential of regular people to make a big difference. 
 
 If you have these qualities and a little extra time on your hands, please let us know by contacting the project coordinator at patrickkcampbell0[at]gmail.com.
 
-### Current needs
+### Skills Needed
 We're especially in need of volunteers with the following skills:
 - GIS and webmap app development (Esri suite, QGIS, etc.)
-- Coding / development
+- Coding / custom app and website development
 - Knowledge and resource curation
-- User Research
+- User research
 - Grant writing
 
 ### Current Opportunities
 Below is a short list of some of our current planned activities, which we will continue to update as the project progresses. 
 - Development of the Big Map prototype, including:
-  - Integration of Experience Builder application with social media, especially through social media post templates and builder and RSS feed
-  - 
+  - Geodatabase development and data modeling
+  - Integration of Experience Builder application with social media, especially through social media post templates and builder
+  - Development of an inegrated RSS feed to notify users of important updates to the Big Map geodatabase
+  - Integration of Big Map with [Catalist workspace](https://www.catalist.network/)
+  - Gathering and curation of resource commons to support ecorestoration Communities of Practice
 - Grant research and proposal development
+- Project coordination / Task Leads
 
-Volunteers are also encouraged to pitch their own ideas for future development. Our work style is open and highly collaborative, and many of our tasks are designed to be self-guided. 
+Contributors are also encouraged to pitch their own ideas for future development. Our work style is open and highly collaborative, and many of our tasks are designed to be self-guided. Whether you're looking to learn a new skill, level up existing skills, or build your portfolio, please let us know how we can make this experience as valuable to you as it is for us.
 
 ## Quicklinks
 1. [EcoRestoration Alliance homepage](https://www.ecorestorationalliance.org/)
@@ -49,4 +53,3 @@ Volunteers are also encouraged to pitch their own ideas for future development. 
 This repo contains the following materials: 
 1. Project Management Protocol - Document explaining how the project is currently managed, including communication procedures, meeting schedules, roles and responsibilities, task management, file sharing, and other essential information. 
 2. Scoping Document - Document providing basic information about the project, including goals and objectives, user personas and stories, and anticipated tasks and deliverables.
-3. 
