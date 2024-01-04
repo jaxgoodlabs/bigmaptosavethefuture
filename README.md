@@ -37,7 +37,7 @@ Volunteers are also encouraged to pitch their own ideas for future development. 
 
 ## Useful Links
 1. [EcoRestoration Alliance homepage](https://www.ecorestorationalliance.org/)
-2. [Big Map prototype](experience.arcgis.com/experience/a119844161254f0d8d397b255f392174/page/Map-Viewer/)
+2. [Big Map prototype](https://experience.arcgis.com/experience/a119844161254f0d8d397b255f392174/page/Map-Viewer/)
 3. [ERA Initiative 20x20 Technical Partner profile](https://initiative20x20.org/partners/ecorestoration-alliance)
 
 ## Contents
